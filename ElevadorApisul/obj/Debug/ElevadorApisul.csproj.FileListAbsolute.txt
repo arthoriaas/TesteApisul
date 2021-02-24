@@ -1,0 +1,10 @@
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\obj\Debug\ElevadorApisul.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\bin\Debug\ElevadorApisul.exe.config
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\bin\Debug\ElevadorApisul.exe
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\bin\Debug\ElevadorApisul.pdb
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\obj\Debug\ElevadorApisul.csproj.CopyComplete
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\obj\Debug\ElevadorApisul.exe
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\obj\Debug\ElevadorApisul.pdb
+C:\Users\Arthur\Desktop\ProvaApisul\ProvaApisul\ElevadorApisul\obj\Debug\ElevadorApisul.csprojAssemblyReference.cache
